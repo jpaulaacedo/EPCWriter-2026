@@ -1,0 +1,174 @@
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\bin\x86\Release\DLLs\CustomControl.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\bin\x86\Release\DLLs\dmdll.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\bin\x86\Release\DLLs\mysql.data.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\bin\x86\Release\DLLs\UHFReader86.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\bin\x86\Release\UHFReader86Demo.exe.config
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\bin\x86\Release\UHFReader86Demo.exe.manifest
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\bin\x86\Release\UHFReader86Demo.application
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\bin\x86\Release\UHFReader86Demo.exe
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\bin\x86\Release\UHFReader86Demo.pdb
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\bin\x86\Release\CustomControl.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\bin\x86\Release\mysql.data.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\obj\x86\Release\UHFReader86Demo.ConfigForm.resources
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\obj\x86\Release\UHFReader86Demo.Form1.resources
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\obj\x86\Release\UHFReader86Demo.LoginForm.resources
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\obj\x86\Release\UHFReader86Demo.Properties.Resources.resources
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.csproj.GenerateResource.Cache
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\obj\x86\Release\UHFReader86Demo.exe.manifest
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\obj\x86\Release\UHFReader86Demo.application
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\obj\x86\Release\UHFReader86Demo.exe
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Source Code\UHFReader86Demo\obj\x86\Release\UHFReader86Demo.pdb
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\DLLs\CustomControl.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\DLLs\dmdll.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\DLLs\mysql.data.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\DLLs\UHFReader86.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\CustomControl.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\mysql.data.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.csproj.GenerateResource.Cache
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\EPCReaderWriter.exe.config
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.Properties.Resources.resources
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.Form1.resources
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.ConfigForm.resources
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.LoginForm.resources
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\EPCReaderWriter.exe.manifest
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\EPCReaderWriter.application
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\EPCReaderWriter.exe
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\EPCReaderWriter.pdb
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.exe.manifest
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.application
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.exe
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. DR6189 (Writer)\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.pdb
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\EPCReaderWriter.exe.config
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.exe
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.pdb
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.ConfigForm.resources
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.Form1.resources
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.LoginForm.resources
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.Properties.Resources.resources
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.csproj.GenerateResource.Cache
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\DLLs\CustomControl.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\DLLs\dmdll.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\DLLs\mysql.data.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\DLLs\UHFReader86.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\EPCReaderWriter.exe.manifest
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\EPCReaderWriter.application
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\EPCReaderWriter.exe
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\EPCReaderWriter.pdb
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\CustomControl.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\bin\x86\Release\mysql.data.dll
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.exe.manifest
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.application
+C:\Users\Mary Grace Rellora\Documents\AAA Projects\1. EPC ReaderWriter\Enhancement\Source Code (Project Rename)\UHFReader86Demo\obj\x86\Release\EPCReaderWriter.DatabaseConnectionSetupForm.resources
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\bin\x86\Release\EPCReaderWriter.exe.config
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\obj\x86\Release\EPCReaderWriter.exe
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\obj\x86\Release\EPCReaderWriter.pdb
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\obj\x86\Release\EPCReaderWriter.ConfigForm.resources
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\obj\x86\Release\EPCReaderWriter.DatabaseConnectionSetupForm.resources
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\obj\x86\Release\EPCReaderWriter.Form1.resources
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\obj\x86\Release\EPCReaderWriter.LoginForm.resources
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\obj\x86\Release\EPCReaderWriter.Properties.Resources.resources
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\obj\x86\Release\EPCReaderWriter.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\bin\x86\Release\DLLs\CustomControl.dll
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\bin\x86\Release\DLLs\dmdll.dll
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\bin\x86\Release\DLLs\mysql.data.dll
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\bin\x86\Release\DLLs\UHFReader86.dll
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\bin\x86\Release\EPCReaderWriter.exe.manifest
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\bin\x86\Release\EPCReaderWriter.application
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\bin\x86\Release\EPCReaderWriter.exe
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\bin\x86\Release\EPCReaderWriter.pdb
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\bin\x86\Release\CustomControl.dll
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\bin\x86\Release\mysql.data.dll
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\obj\x86\Release\EPCReaderWriter.exe.manifest
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-09-2023 Source Code (Database Connection COnfiguration)\obj\x86\Release\EPCReaderWriter.application
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\EPCReaderWriter.exe.config
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.exe
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.pdb
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\DLLs\CustomControl.dll
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\DLLs\dmdll.dll
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\DLLs\mysql.data.dll
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\DLLs\UHFReader86.dll
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\EPCReaderWriter.exe.manifest
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\EPCReaderWriter.application
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\EPCReaderWriter.exe
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\EPCReaderWriter.pdb
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\CustomControl.dll
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\mysql.data.dll
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.ConfigForm.resources
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.DatabaseConnectionSetupForm.resources
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.Form1.resources
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.LoginForm.resources
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.Properties.Resources.resources
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.exe.manifest
+C:\Users\HP\Desktop\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.application
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\EPCReaderWriter.exe.config
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.exe
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.pdb
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\DLLs\CustomControl.dll
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\DLLs\dmdll.dll
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\DLLs\mysql.data.dll
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\DLLs\UHFReader86.dll
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\EPCReaderWriter.exe.manifest
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\EPCReaderWriter.application
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\EPCReaderWriter.exe
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\EPCReaderWriter.pdb
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\CustomControl.dll
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\bin\x86\Release\mysql.data.dll
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.ConfigForm.resources
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.DatabaseConnectionSetupForm.resources
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.Form1.resources
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.LoginForm.resources
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.Properties.Resources.resources
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.csproj.GenerateResource.Cache
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.exe.manifest
+D:\Asset Management\1. EPC ReaderWriter\08-14-2023 Source Code (Field Modification)\obj\x86\Release\EPCReaderWriter.application
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\EPCReaderWriter.exe.config
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.exe
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.pdb
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\DLLs\CustomControl.dll
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\DLLs\dmdll.dll
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\DLLs\mysql.data.dll
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\DLLs\UHFReader86.dll
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\EPCReaderWriter.exe.manifest
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\EPCReaderWriter.application
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\EPCReaderWriter.exe
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\EPCReaderWriter.pdb
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\CustomControl.dll
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\mysql.data.dll
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.ConfigForm.resources
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.DatabaseConnectionSetupForm.resources
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.Form1.resources
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.LoginForm.resources
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.Properties.Resources.resources
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.csproj.GenerateResource.Cache
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.exe.manifest
+D:\Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.application
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\EPCReaderWriter.exe.config
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.exe
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.pdb
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\DLLs\CustomControl.dll
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\DLLs\dmdll.dll
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\DLLs\mysql.data.dll
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\DLLs\UHFReader86.dll
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\EPCReaderWriter.exe.manifest
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\EPCReaderWriter.application
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\EPCReaderWriter.exe
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\EPCReaderWriter.pdb
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\CustomControl.dll
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\bin\x86\Release\mysql.data.dll
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\ResolveAssemblyReference.cache
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.ConfigForm.resources
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.DatabaseConnectionSetupForm.resources
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.Form1.resources
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.LoginForm.resources
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.Properties.Resources.resources
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.csproj.GenerateResource.Cache
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.exe.manifest
+D:\AMS\IOT - Asset Management\1. EPC ReaderWriter\02-19-2025 Source Code (Field Modification) - Pau\obj\x86\Release\EPCReaderWriter.application

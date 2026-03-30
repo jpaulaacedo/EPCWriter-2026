@@ -1,0 +1,18 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>D:\Asset Management\6. Installers\1.1 EPC ReaderWriter %28NEW%29\|D:\Asset Management\6. Installers\1. EPC ReaderWriter\|C:\Users\HP\Desktop\Asset Management\6. Installers\1. EPC ReaderWriter\|C:\Users\Mary Grace Rellora\Documents\AAA Projects\6. Installers\1. DR6189 %28Writer%29\|C:\Users\Mary Grace Rellora\Documents\AAA Projects\6. Installers\1. Reader86 %28DR6189_EN%29\</PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+</Project>

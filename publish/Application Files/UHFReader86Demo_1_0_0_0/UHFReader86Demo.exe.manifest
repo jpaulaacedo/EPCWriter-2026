@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="UHFReader86Demo.exe" version="1.0.0.0" publicKeyToken="d2454b762399e0db" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="2.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="UHFReader86Demo" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="UHFReader86Demo.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CustomControl.dll" size="32768">
+      <assemblyIdentity name="CustomControl" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>DQXtwQLmtycWA4NcPW70u/Plh/A=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mysql.data.dll" size="439296">
+      <assemblyIdentity name="MySql.Data" version="6.8.0.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>UdD3N0PfyPPF589XRgIwnsurOK4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UHFReader86Demo.exe" size="380928">
+      <assemblyIdentity name="UHFReader86Demo" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>eMfNFXK/MXOIB070e8K1XkYK718=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="2.ico" size="58022">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nYXcjaDQn5udJL2UP+SoCXmfkBQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="UHFReader86Demo.exe.config" size="383">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Y2AAcGU2gorNVBOenr4VCqlP9ck=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-JQ56941H\Mary Grace Rellora" issuerKeyHash="bb8ba723d07129d6351fdff3270d677dfe29b961" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>XZdI0IspQkQzvOQ3Bf9itABIRyE=</DigestValue></Reference></SignedInfo><SignatureValue>bbUHihyfV7p7inxEFiGD2bV5wzGLrp0W2ntimM3YtLZMMyPkXNiXTsUn2+ncarkAV5KmrfTnwW7CemVK0o8qHlOVmx9hbFqN/yTrwhXLJj4uaXD2NfZ89hhVKX6Y54ptoTu8BANZ8Xx3DeVMrQ3DrlLowXNUj85oNk9V+fozIyk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uQRjvJRKfY1Ca3JoUthurM9k+wDC19LEZ4Q2ZgPEE4zpMuC/Z0OGq7v/3NQHAFpTITnGN//D3SZc4dQG5NwXPv4VuxOjGYdQJ6h2TA4Pi1kaE2xLA/Mf2ltHTqLaeC6CWzQM6fOl+jNV9j0W8as+quCaQ9/81MhNsJL5bdllJMk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="21474800b462ff0537e4bc334442298bd048975d" Description="" Url=""><as:assemblyIdentity name="UHFReader86Demo.exe" version="1.0.0.0" publicKeyToken="d2454b762399e0db" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-JQ56941H\Mary Grace Rellora</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>j5lL47LJYX2uZxpXmdjIrl8IfC8=</DigestValue></Reference></SignedInfo><SignatureValue>C44pQO7cRmYosZQjU7l4865OieWd9KBhD4dZ5Gc21Gzh2ou5s2WGNdvwypcwnPtgJyRZl37iqkQpicJTYty1JEnp6LpD+0Lk3l6vR9WrA1xzNNUTaKi6rsz2Zy3/dDYHjMPEjpXYIsuE1BHirrPBHsyASSesvhTrUJ9/D6qEfSM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uQRjvJRKfY1Ca3JoUthurM9k+wDC19LEZ4Q2ZgPEE4zpMuC/Z0OGq7v/3NQHAFpTITnGN//D3SZc4dQG5NwXPv4VuxOjGYdQJ6h2TA4Pi1kaE2xLA/Mf2ltHTqLaeC6CWzQM6fOl+jNV9j0W8as+quCaQ9/81MhNsJL5bdllJMk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICITCCAYqgAwIBAgIQJQzsIuPKbq1IEEewyVJUnDANBgkqhkiG9w0BAQUFADBPMU0wSwYDVQQDHkQATABBAFAAVABPAFAALQBKAFEANQA2ADkANAAxAEgAXABNAGEAcgB5ACAARwByAGEAYwBlACAAUgBlAGwAbABvAHIAYTAeFw0yMzA3MTMxNjQ2MjBaFw0yNDA3MTIyMjQ2MjBaME8xTTBLBgNVBAMeRABMAEEAUABUAE8AUAAtAEoAUQA1ADYAOQA0ADEASABcAE0AYQByAHkAIABHAHIAYQBjAGUAIABSAGUAbABsAG8AcgBhMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC5BGO8lEp9jUJrcmhS2G6sz2T7AMLX0sRnhDZmA8QTjOky4L9nQ4aru//c1AcAWlMhOcY3/8PdJlzh1Abk3Bc+/hW7E6MZh1AnqHZMDg+LWRoTbEsD8x/aW0dOotp4LoJbNAzp86X6M1X2PRbxqz6q4JpD3/zUyE2wkvlt2WUkyQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAJqjffK4tNDHMltsHsgX44ZJZCzFBC4XeJkGLapLLZnbCVk8NXlnyad1f4EoWT9GakMQWJnUWEpZGQZUhED3BnxPjX64Ie3pDmzZJDZkobsUdIEG1LzDHgJJ4oEl7R2uwXEHvMI7p2uSog1Az0K/rYkjWJyGKBxG3May94bbjieY</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
